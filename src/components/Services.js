@@ -1,5 +1,6 @@
 import React from 'react';
-import '../App.css';
+import './Experience.css';
+import Experience from "./Experience";
 
 export default function Services() {
   return (
